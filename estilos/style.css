@@ -1,6 +1,8 @@
-img.lado{
-    float: right;
+h1 {
+    font-size: 2.5em; /* Aproximadamente 40px */
+    margin-bottom: 10px;
 }
+
 
 *{
     font-family: Arial, Helvetica, sans-serif;
@@ -14,7 +16,7 @@ body{
 
 main{
     background-color: white;
-    width: 565px;
+    width: 500px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0,473);
